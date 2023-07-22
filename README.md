@@ -8,6 +8,7 @@ Use the script at your own risk. While you won't lose your file (probably) thing
 This script will group file into folder based on their filename. The script has been configured to group file with name as stated below
 
 > [WhatEver] **Actual Name** - Whatever Other Nonsense No 1.whtvr
+> 
 > [WhatEver] **Actual Name** - Whatever Other Nonsense No 2.whtvr
 
 In this case, the new folder name will be as follow: **Actual Name**
